@@ -4,7 +4,7 @@
 설정법
 -------
 
-#Version
+# Version
 
 JDK Version 1.8 
 
@@ -12,7 +12,7 @@ OJDBC 8
 
 
 
-#DB
+# DB
 
 데이터베이스는 ORACLE DB를 이용하였습니다. 
 
